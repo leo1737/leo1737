@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leo1737
-- 👀 I’m interested in  Java,  c.
-- 🌱 I’m currently learning  Java , c.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in  JavaScript,  c++.
+- 🌱 I’m currently learning  JavaScript , c++, HTML.
 - 📫 How to reach me leonardogiuliattini8@gmail.com
 
 <!---
