@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leo1737
-- 👀 I’m interested in  JavaScript,  c++.
-- 🌱 I’m currently learning  JavaScript , c++, HTML.
+- 👀 I’m interested in  JavaScript,  c++, php, linux.
+- 🌱 I’m currently learning  JavaScript , c++, HTML, php, linux.
 - 📫 How to reach me leonardogiuliattini8@gmail.com
 
 <!---
